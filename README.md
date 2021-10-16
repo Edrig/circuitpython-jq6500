@@ -10,7 +10,7 @@ from jq6500 import Player
 p = Player(board.TX, board.RX, 30)
 p.play()
 p.get_length()
-p.clean_up()# Ecrit ton programme ici ;-)
+p.clean_up()
 
 ```
 
